@@ -1,0 +1,17 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "restful api trial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.7"
+  }
+}
